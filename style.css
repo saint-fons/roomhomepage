@@ -1,0 +1,86 @@
+* {
+    box-sizing: border-box
+}
+
+body {
+    width: 1440px;
+    height: 100%;
+
+
+    font-family: 'Spartan', sans-serif;
+}
+
+/*header*/
+
+.menu {
+    width: 820px;
+    height: 500px;
+    background-color: black;
+    float: left;
+}
+
+
+.discover {
+    width: 620px;
+    height: 500px;
+    float: right;
+}
+
+
+/*header*/
+
+
+/*footer*/
+
+.img-slider-1 {
+
+}
+
+.footer1 {
+    width: 480px;
+    height: 250px;
+
+    float: left;
+
+    background-color: aquamarine;
+}
+
+
+.decorate {
+    font-size: 35px;
+    font-weight: 700;
+
+    margin: 120px 70px 10px 70px;
+
+}
+
+.provide {
+    font-size: 15px;
+    font-weight: 500;
+    color: beige;
+
+    margin: 20px 70px 10px 70px;
+
+}
+
+.footer2 {
+    width: 480px;
+    height: 250px;
+
+    float: left;
+
+    background-color: antiquewhite;
+}
+
+.footer3 {
+    width: 480px;
+    height: 250px;
+
+    float: left;
+
+    background-color: azure;
+}
+
+
+
+/*footer*/
